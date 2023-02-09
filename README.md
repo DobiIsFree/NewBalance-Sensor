@@ -1,6 +1,11 @@
 # Sensor
 Repository of code for IMU(MPU6050) &amp; FSR(Force Sensitive Resistor)
+<br>
+## Circuit Diagram
+![circuit-NewBalance](https://user-images.githubusercontent.com/81208791/217940847-b2a95b55-129e-472f-80d3-82e0e47dbf41.png)
 
+<br>
+<br>
 
 ## IMU(Ineritial Measurement Unit) - MPU6050
 ### Sensor Description
@@ -21,9 +26,12 @@ Arduino IDE 2.0.3
    |_ Adafruit MPU6050 (Version 2.2.4)
    |_ Adafruit SSD1306 (Version 2.5.7)
    |_ Adafruit Unified Sensor (Version 1.1.7)
+   
 ```
+<br>
+<br>
 
-## Force Sensitive Resistor
+## Force Sensitive Resistor(FSR)
 ### Sensor Description
 - Force Sensitive Resistor Thin Film Pressure Sensor MD30-60
   - Range: 0~30KG 
