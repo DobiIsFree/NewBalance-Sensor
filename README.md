@@ -1,6 +1,9 @@
 # Sensor
 Repository of code for IMU(MPU6050) &amp; FSR(Force Sensitive Resistor)
 
+## Circuit Diagram
+![circuit-NewBalance](https://user-images.githubusercontent.com/81208791/217940847-b2a95b55-129e-472f-80d3-82e0e47dbf41.png)
+
 
 ## IMU(Ineritial Measurement Unit) - MPU6050
 ### Sensor Description
